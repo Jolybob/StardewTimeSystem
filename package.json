@@ -4,7 +4,7 @@
   "displayName": "Stardew Time System",
   "description": "A flexible day/night cycle and time management system for Unity games, inspired by Stardew Valley. Features include configurable day duration, seasons, time of day detection, and event-based notifications.",
   "unity": "2022.3",
-  "unityRelease": "2022.3.0f1",
+  "unityRelease": "0f1",
   "author": {
     "name": "Stardew Inspired",
     "email": "",
