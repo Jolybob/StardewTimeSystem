@@ -29,7 +29,7 @@
     {
       "displayName": "Basic Time System Setup",
       "description": "Example scene demonstrating the time system with day/night cycle, UI display, and lighting changes.",
-      "path": "Samples/BasicSetup"
+      "path": "Samples~/BasicSetup"
     }
   ],
   "license": "MIT",
